@@ -1,0 +1,4 @@
+
+}squid:UselessImportCheck"MRemove this unused import 'androidx.recyclerview.widget.LinearLayoutManager'.(ôœ¹ºýÿÿÿÿ8°úãë¾-
+Ÿsquid:S1319W"€The type of the "photoDetailsArrayList" object should be an interface such as "List" rather than the implementation "ArrayList".(ÝÉ¸«8¶Üšê¾-
+hsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(õŸºU8«·Ùé¾-
